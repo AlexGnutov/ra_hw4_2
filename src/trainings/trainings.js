@@ -1,4 +1,3 @@
-import InputForm from "./elements/input-form/input-form";
 import NotesList from "./elements/notes-list/notes-list";
 import PropTypes from "prop-types";
 
